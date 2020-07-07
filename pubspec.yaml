@@ -1,0 +1,22 @@
+name: bootstrap_icons
+description: New Bootstrap Icons
+version: 1.0.0
+author: delef
+homepage: https://github.com/delef/flutter_bootstrap_icons
+
+environment:
+  sdk: ">=2.7.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+flutter:
+  fonts:
+    - family: BootstrapIcons
+      fonts:
+        - asset: assets/icons/bootstrap-icons.ttf
