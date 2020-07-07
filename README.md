@@ -1,6 +1,7 @@
-# bootstrap_icons
+# flutter_bootstrap_icons
 
 Bootstrap Icons for Flutter
+
 ![Bootstrap Icons full set](https://user-images.githubusercontent.com/98681/82475151-e95e8a80-9a80-11ea-8e35-923ac6fa557b.png)
 
 ## Getting Started
