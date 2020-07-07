@@ -18,4 +18,4 @@ flutter:
   fonts:
     - family: BootstrapIcons
       fonts:
-        - asset: assets/fonts/bootstrap-icons.ttf
+        - asset: fonts/bootstrap-icons.ttf
