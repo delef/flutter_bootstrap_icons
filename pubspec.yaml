@@ -1,7 +1,6 @@
 name: bootstrap_icons
 description: New Bootstrap Icons
-version: 1.0.0
-author: delef
+version: 1.0.0-alpha5
 homepage: https://github.com/delef/flutter_bootstrap_icons
 
 environment:
@@ -19,4 +18,4 @@ flutter:
   fonts:
     - family: BootstrapIcons
       fonts:
-        - asset: assets/icons/bootstrap-icons.ttf
+        - asset: assets/fonts/bootstrap-icons.ttf
