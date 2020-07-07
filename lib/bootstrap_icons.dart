@@ -7,7 +7,7 @@ class BootstrapIcons {
 
   static const String iconFont = 'BootstrapIcons';
 
-  static const IconData alarm_fill = IconData(0xf101, fontFamily: iconFont);
+  static const IconData alarm_fill = IconData(61889, fontFamily: iconFont);
   static const IconData alarm = IconData(0xf102, fontFamily: iconFont);
   static const IconData alt = IconData(0xf103, fontFamily: iconFont);
   static const IconData app_indicator = IconData(0xf104, fontFamily: iconFont);
